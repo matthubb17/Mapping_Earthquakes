@@ -15,4 +15,4 @@ The goal of this project was to gather earthquake data from a known API. We then
 
 - Below is a link to the map that was created.
 
-Live Dashbaord: https://matthubb17.github.io/Mapping_Earthquakes/
+Live Dashbaord: https://matthubb17.github.io/Mapping_Earthquakes/index.html
