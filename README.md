@@ -13,6 +13,6 @@ The goal of this project was to gather earthquake data from a known API. We then
 
 ## Results:
 
-- Below is a link to the map that was created.
+- Below is a image that shows the various layers to the map that was created.
 
-Live Dashbaord: https://matthubb17.github.io/Mapping_Earthquakes/index.html
+![Image of Map](https://github.com/matthubb17/Mapping_Earthquakes/blob/main/Images/Earthquake_Map.JPG)
